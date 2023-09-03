@@ -16,7 +16,7 @@ Generates line plots to compare sepal and petal length and width.
 
 # Model Building:
 
-<b>Preprocesses</b> the data by encoding the 'label' column using LabelEncoder and splitting it into features (X) and the target variable (y).
+Preprocesses the data by encoding the 'label' column using LabelEncoder and splitting it into features (X) and the target variable (y).
 Splits the data into training and testing sets (80% training, 20% testing).
 Builds and evaluates two machine learning models: Decision Tree Classifier and K-Nearest Neighbors Classifier.
 Computes accuracy scores, confusion matrices, and classification reports for model evaluation.
@@ -25,17 +25,23 @@ Computes accuracy scores, confusion matrices, and classification reports for mod
 
 This script serves as a foundational example of a data analysis and machine learning project for the Iris flower dataset. Its future usage and applications include:
 
- Educational Tool: The script can be used as an educational resource for teaching data preprocessing, data visualization, and model building using a well-known dataset.
+ ## Educational Tool: 
+ The script can be used as an educational resource for teaching data preprocessing, data visualization, and model building using a well-known dataset.
 
-Benchmarking: It can serve as a benchmark or reference point for evaluating other classification algorithms or machine learning models on the Iris dataset.
+## Benchmarking: 
+It can serve as a benchmark or reference point for evaluating other classification algorithms or machine learning models on the Iris dataset.
 
-Prototyping: Researchers or data scientists can adapt and extend this script as a starting point for prototyping and experimenting with different machine learning models and techniques.
+## Prototyping: 
+Researchers or data scientists can adapt and extend this script as a starting point for prototyping and experimenting with different machine learning models and techniques.
 
-Comparative Analysis: Users can compare the performance of additional classifiers or feature engineering methods on the Iris dataset and extend the script accordingly.
+## Comparative Analysis:
+Users can compare the performance of additional classifiers or feature engineering methods on the Iris dataset and extend the script accordingly.
 
-Documentation: The script can be documented and included in data science or machine learning project portfolios to showcase data analysis and classification skills.
+## Documentation: 
+The script can be documented and included in data science or machine learning project portfolios to showcase data analysis and classification skills.
 
-Automation: Components of this script can be automated for batch processing or integrated into larger data pipelines for automated classification tasks.
+## Automation: 
+Components of this script can be automated for batch processing or integrated into larger data pipelines for automated classification tasks.
 
 In summary, this script provides a comprehensive overview of data analysis and machine learning tasks on a classic dataset and can be used for educational purposes, research, and as a starting point for more advanced data science projects.
 
