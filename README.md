@@ -16,7 +16,7 @@ Generates line plots to compare sepal and petal length and width.
 
 # Model Building:
 
-Preprocesses the data by encoding the 'label' column using LabelEncoder and splitting it into features (X) and the target variable (y).
+<b>Preprocesses</b> the data by encoding the 'label' column using LabelEncoder and splitting it into features (X) and the target variable (y).
 Splits the data into training and testing sets (80% training, 20% testing).
 Builds and evaluates two machine learning models: Decision Tree Classifier and K-Nearest Neighbors Classifier.
 Computes accuracy scores, confusion matrices, and classification reports for model evaluation.
